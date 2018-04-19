@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Button Content="MENU" HorizontalAlignment="Left" Margin="118,240,0,0" VerticalAlignment="Top" Width="290" Height="27"/>
+        <Image Source ="ProjectWays\images\JPO.PNG" HorizontalAlignment="Left" Height="201" VerticalAlignment="Bottom" Width="284" Margin="124,0,0,95"/>
+        <Image Source ="ProjectWays\images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
+
     </Grid>
 </Window>
