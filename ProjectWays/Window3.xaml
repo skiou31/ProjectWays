@@ -1,0 +1,15 @@
+﻿<Window x:Class="ProjectWays.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectWays"
+        mc:Ignorable="d"
+        Title="CESI Alternance JPO" Height="350" Width="525">
+    <Grid x:Name="QuestionWindow">
+        <Image Source ="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\boutonhome-1401119189_home copie 3460x460.png" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Margin="474,10,0,0" RenderTransformOrigin="0.505,0.838"/>
+        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\fleche-bleu.png" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Margin="474,270,0,0" RenderTransformOrigin="0.505,0.838"/>
+
+    </Grid>
+</Window>

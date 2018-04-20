@@ -1,0 +1,20 @@
+﻿<Window x:Class="ProjectWays.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectWays"
+        mc:Ignorable="d"
+        Title="CESI Alternance JPO" Height="350" Width="525">
+    <Grid x:Name="MenuWindow">
+        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\boutonhome-1401119189_home copie 3460x460.png" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Margin="474,10,0,0" RenderTransformOrigin="0.505,0.838"/>
+        <Image Source ="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Et si on passait un peu de temps ensemble ?" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="84,92,0,0" FontWeight="Bold" Height="34" Width="388" FontSize="18"/>
+        <Label Content="Choisissez une activité :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="197,126,0,0" FontWeight="Bold" Height="29" Width="170" FontSize="14"/>
+        <Button Content="Questionnaire d'orientation" HorizontalAlignment="Left" VerticalAlignment="Top" Width="170" Margin="75,257,0,0" Height="29" FontWeight="Bold" Background="#FF3763F7"/>
+        <Button Content="Questionnaire de connaissances" HorizontalAlignment="Left" VerticalAlignment="Top" Width="188" Margin="307,257,0,0" Height="29" Click="Button_Click" FontWeight="Bold" Background="#FF3763F7"/>
+        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\orientation-scolaire.png" HorizontalAlignment="Left" Height="92" VerticalAlignment="Top" Width="120" Margin="102,160,0,0"/>
+        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\Quiz-Time.png" HorizontalAlignment="Left" Height="82" VerticalAlignment="Top" Width="132" Margin="333,160,0,0" RenderTransformOrigin="0.968,0.592"/>
+
+    </Grid>
+</Window>
