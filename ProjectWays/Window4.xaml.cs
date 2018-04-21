@@ -23,5 +23,11 @@ namespace ProjectWays
         {
             InitializeComponent();
         }
+
+        private void Button_Click_Mail(object sender, RoutedEventArgs e)
+        {
+            PopupMail p = new PopupMail();
+            p.Show();
+        }
     }
 }

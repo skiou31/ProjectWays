@@ -13,3 +13,34 @@ E:\DI-2016\CESI\PROJET C#\ProjectWaysSolution\ProjectWays\obj\Debug\ProjectWays.
 E:\DI-2016\CESI\PROJET C#\ProjectWaysSolution\ProjectWays\obj\Debug\ProjectWays.csproj.CoreCompileInputs.cache
 E:\DI-2016\CESI\PROJET C#\ProjectWaysSolution\ProjectWays\obj\Debug\ProjectWays.exe
 E:\DI-2016\CESI\PROJET C#\ProjectWaysSolution\ProjectWays\obj\Debug\ProjectWays.pdb
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Classement.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\MainWindow.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\PopupMail.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Window1.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Window2.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Window3.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Window4.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\App.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\ProjectWays_Content.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\ProjectWays_MarkupCompile.cache
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\ProjectWays_MarkupCompile.lref
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\ProjectWays.exe
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\ProjectWays.pdb
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\bin\Debug\ProjectWays.mdf
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\bin\Debug\ProjectWays_log.ldf
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\bin\Debug\ProjectWays.exe.config
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\bin\Debug\ProjectWays.exe
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\bin\Debug\ProjectWays.pdb
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Classement.baml
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\MainWindow.baml
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\PopupMail.baml
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Window1.baml
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Window2.baml
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Window3.baml
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\Window4.baml
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\ProjectWays.g.resources
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\ProjectWays.Properties.Resources.resources
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\ProjectWays.csproj.GenerateResource.Cache
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\ProjectWays.csprojResolveAssemblyReference.cache
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\QOrientation.g.cs
+C:\Users\manon\Documents\CESI\C#\git\ProjectWays\ProjectWays\obj\Debug\QOrientation.baml

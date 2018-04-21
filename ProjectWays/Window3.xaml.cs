@@ -23,5 +23,11 @@ namespace ProjectWays
         {
             InitializeComponent();
         }
+
+        private void Button_Click_Home(object sender, RoutedEventArgs e)
+        {
+            Window2 w = new Window2();
+            w.Show();
+        }
     }
 }

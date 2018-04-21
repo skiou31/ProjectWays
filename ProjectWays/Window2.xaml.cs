@@ -23,6 +23,18 @@ namespace ProjectWays
         {
             InitializeComponent();
         }
-      
+
+        private void Button_Click_QO(object sender, RoutedEventArgs e)
+        {
+            QOrientation qo = new QOrientation();
+            qo.Show();
+
+        }
+
+        private void Button_Click_QC(object sender, RoutedEventArgs e)
+        {
+            QConnaissance qc = new QConnaissance();
+            qc.Show();
+        }
     }
 }

@@ -9,9 +9,16 @@
     <Grid>
         <Button x:Name="Bouton_Menu" Content="Venez passer un moment avec nous ! Cliquez ici" HorizontalAlignment="Left" Margin="118,240,0,0" VerticalAlignment="Top" Width="290" Height="27" Click="Button_Click" Background="#FF3763F7" FontWeight="Bold" BorderBrush="Black" BorderThickness="1
                 "/>
-        <Image Source ="ProjectWays\images\JPO.PNG" HorizontalAlignment="Left" Height="201" VerticalAlignment="Bottom" Width="284" Margin="124,0,0,95"/>
-        <Image Source ="ProjectWays\images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
-        <Image Source ="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\admin.png" HorizontalAlignment="Left" Height="42" Margin="465,10,0,0" VerticalAlignment="Top" Width="52"/>
+        <Image Source ="images\JPO.PNG" HorizontalAlignment="Left" Height="201" VerticalAlignment="Bottom" Width="284" Margin="124,0,0,95"/>
+        <Image Source ="images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="442,10,0,0" VerticalAlignment="Top" Width="65" Height="53">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="#FF707070" Opacity="0"/>
+            </Button.BorderBrush>
+            <Button.Background>
+                <ImageBrush ImageSource="images\admin.png"/>
+            </Button.Background>
+        </Button>
 
     </Grid>
 </Window>

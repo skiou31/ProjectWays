@@ -7,9 +7,23 @@
         mc:Ignorable="d"
         Title="CESI Alternance JPO" Height="350" Width="525">
     <Grid x:Name="QuestionWindow">
-        <Image Source ="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
-        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\boutonhome-1401119189_home copie 3460x460.png" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Margin="474,10,0,0" RenderTransformOrigin="0.505,0.838"/>
-        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\fleche-bleu.png" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Margin="474,270,0,0" RenderTransformOrigin="0.505,0.838"/>
+        <Image Source ="images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="442,24,0,0" VerticalAlignment="Top" Width="51" Height="48" Click="Button_Click_Home">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="#FF707070" Opacity="0"/>
+            </Button.BorderBrush>
+            <Button.Background>
+                <ImageBrush ImageSource="images\boutonhome-1401119189_home copie 3460x460.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Margin="442,251,0,0" VerticalAlignment="Top" Width="51" Height="45" RenderTransformOrigin="0.686,1.022">
+            <Button.Background>
+                <ImageBrush ImageSource="images\fleche-bleu.png"/>
+            </Button.Background>
+            <Button.BorderBrush>
+                <ImageBrush/>
+            </Button.BorderBrush>
+        </Button>
 
     </Grid>
 </Window>

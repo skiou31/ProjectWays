@@ -7,13 +7,27 @@
         mc:Ignorable="d"
         Title="CESI Alternance JPO" Height="350" Width="525">
     <Grid>
-        <Image Source ="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
-        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\boutonhome-1401119189_home copie 3460x460.png" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Margin="474,10,0,0" RenderTransformOrigin="0.505,0.838"/>
+        <Image Source ="images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
         <Label Content="Fiche métier" HorizontalAlignment="Left" Margin="218,53,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
-        <Button Content="Envoyer la fiche par e-mail*" HorizontalAlignment="Left" Margin="157,249,0,0" VerticalAlignment="Top" Width="193" Height="33" Background="#FF3763F7"/>
+        <Button Content="Envoyer la fiche par e-mail*" HorizontalAlignment="Left" Margin="157,249,0,0" VerticalAlignment="Top" Width="193" Height="33" Background="#FF3763F7" Click="Button_Click"/>
         <Label Content="*nous ne conserverons pas vos données" HorizontalAlignment="Left" Margin="10,295,0,0" VerticalAlignment="Top" Height="24" FontSize="8" Width="159"/>
-        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\fleche-bleu.png" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Margin="474,270,0,0" RenderTransformOrigin="0.505,0.838"/>
         <ScrollBar HorizontalAlignment="Left" Margin="481,107,0,0" VerticalAlignment="Top" Height="105" Background="#FF3763F7"/>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="51" Margin="456,10,0,0" Height="48" Click="Button_Click_Home">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="#FF707070" Opacity="0"/>
+            </Button.BorderBrush>
+            <Button.Background>
+                <ImageBrush ImageSource="images\boutonhome-1401119189_home copie 3460x460.png"/>
+            </Button.Background>
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="51" Margin="456,261,0,0" Height="48" Click="Button_Click_Home">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="#FF707070" Opacity="0"/>
+            </Button.BorderBrush>
+            <Button.Background>
+                <ImageBrush ImageSource="images\fleche-bleu.png"/>
+            </Button.Background>
+        </Button>
 
     </Grid>
 </Window>

@@ -1,0 +1,16 @@
+﻿<Window x:Name="Popup" x:Class="ProjectWays.PopupMail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectWays"
+        mc:Ignorable="d"
+        Title="PopupMail" Height="138.36" Width="329.268">
+    <Grid>
+        <Label Content="Ajouter votre adresse e-mail* :" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="2.205,1.418" Margin="76,10,0,0" FontWeight="Bold"/>
+        <Label Content="*nous ne conserverons pas vos données" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="2.205,1.418" Margin="0,86,0,0" FontSize="8"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="224" Margin="50,47,0,0" BorderBrush="#FF060606"/>
+        <Button x:Name="SendButton" Content="Envoyer" HorizontalAlignment="Left" Margin="225,77,0,0" VerticalAlignment="Top" Width="75" Background="#FF3763F7"/>
+
+    </Grid>
+</Window>

@@ -8,9 +8,8 @@
         Title="CESI Alternance JPO" Height="350" Width="525">
     <Grid x:Name="PseudoWindow1" Background="{x:Null}">
         <Button Content="Valider" HorizontalAlignment="Left" VerticalAlignment="Top" Width="142" Margin="325,209,0,0" Height="22" Background="#FF3763F7" BorderBrush="#FF080808" FontWeight="Bold"/>
-        <Label Content="Pour continuer avec nous, veuillez choisir un pseudo :" HorizontalAlignment="Left" Margin="122,111,0,0" VerticalAlignment="Top" Height="23" Width="314" FontWeight="Bold"/>
+        <Label Content="Pour continuer avec nous, veuillez choisir un pseudo :" HorizontalAlignment="Left" Margin="122,111,0,0" VerticalAlignment="Top" Height="27" Width="314" FontWeight="Bold"/>
         <TextBox HorizontalAlignment="Left" Height="22" Margin="68,209,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="230"/>
-        <Image Source ="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
-        <Image Source="C:\Users\manon\Documents\CESI\C#\git\ProjectWays\images\boutonhome-1401119189_home copie 3460x460.png" HorizontalAlignment="Left" Height="33" VerticalAlignment="Top" Width="33" Margin="474,10,0,0" RenderTransformOrigin="0.505,0.838"/>
+        <Image Source ="images\logo-cesi-big.png" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100"/>
     </Grid>
 </Window>
