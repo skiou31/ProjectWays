@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -30,4 +31,33 @@ namespace ProjectWays
 
         }
     }
+    //public void AjouterQuestion()
+    //{
+
+
+    //}
+
+    public class Connection
+    {
+        private static SqlConnection instance = null;
+        private static string connectionString = @"Data Source=(localdb)\ProjectWays;Integrated Security=True;AttachDbFilename=ProjectWays.mdf";
+        private static readonly object monLock;
+        Connection() { }
+
+        public static SqlConnection Instance
+        {.
+            get
+            {
+                lock (monLock)
+                {
+                    if (instance == null)
+                    {
+                        instance = new SqlConnection(connectionString);
+                    }
+                    return instance;
+                }
+            }
+        }
+    }
+
 }
